@@ -31,5 +31,5 @@
 
 - <a name="LotteryTicket"></a> The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (**ICLR2019**)[[paper](https://arxiv.org/abs/1803.03635)] 
 
-- <a name="LotteryTicket"></a> Sparse Transfer Learning via Winning LotteryTickets (**ICLR2019**)[[paper]( https://arxiv.org/abs/1905.07785)] 
+- <a name="LotteryTicket"></a> Sparse Transfer Learning via Winning LotteryTickets (**CoRR2019**)[[paper]( https://arxiv.org/abs/1905.07785)] 
 
